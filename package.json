@@ -1,0 +1,19 @@
+{
+  "name": "condition-rule",
+  "version": "1.0.0",
+  "description": "条件表达式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "condition",
+    "rule"
+  ],
+  "author": "keep-promise",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
